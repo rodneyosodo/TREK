@@ -64,7 +64,7 @@ const CURRENCY_LOCALE: Record<string, string> = {
   EGP: 'en-EG', MAD: 'fr-MA', HUF: 'hu-HU', RON: 'ro-RO', BGN: 'bg-BG',
   HRK: 'hr-HR', ISK: 'is-IS', RUB: 'ru-RU', UAH: 'uk-UA', KGS: 'ru-KG',
   BDT: 'en-BD', LKR: 'en-LK', VND: 'vi-VN', CLP: 'es-CL', COP: 'es-CO',
-  PEN: 'es-PE', ARS: 'es-AR',
+  PEN: 'es-PE', ARS: 'es-AR', KES: 'en-KE',
 }
 
 export function currencyLocale(currency: string): string {
